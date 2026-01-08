@@ -1,0 +1,17 @@
+/tailscale-cs
+/work_area*
+composer.*
+/Python*
+*.output
+/Modgest
+/thanos
+/vendor
+/bkdir
+java/
+*.exe
+*.msi
+*.pyc
+*.msp
+*.msx
+msx.py
+Cobblemon-fabric-1.7.1+1.21.1.jar
